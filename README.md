@@ -30,4 +30,3 @@ My Cheat Sheet of Machine Learning and Neural Network workflow
   - Feature Importance
   - Metrics Classifiers
 - Pipeline and GridSearch
->>>>>>> Stashed changes
